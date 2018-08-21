@@ -4,7 +4,7 @@
 */
 class Tree{
   public function buildTree(){
-    
+  	echo "tree";  
   }
 }
 ?>
